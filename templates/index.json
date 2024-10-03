@@ -94,7 +94,10 @@
         "border_opacity": 100,
         "container_max_width": "",
         "products": [
-
+          "spabad-1",
+          "spabad-2",
+          "spabad-3",
+          "spabad-4"
         ],
         "collection": "spabad",
         "limit": 8,
