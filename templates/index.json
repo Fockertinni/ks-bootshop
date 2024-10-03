@@ -100,7 +100,7 @@
           "spabad-4"
         ],
         "collection": "spabad",
-        "limit": 8,
+        "limit": 4,
         "recommended_mode": true,
         "recommended_mode_intent": "related",
         "header_title": "Featured Products",
