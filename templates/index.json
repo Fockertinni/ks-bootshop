@@ -395,9 +395,9 @@
         "border_opacity": 100,
         "container_max_width": "",
         "open_first_item": true,
-        "header_title": "FAQs",
+        "header_title": "FAQ",
         "header_title_font_size": "h2",
-        "header_description": "<p>Add on optional description for this section</p>",
+        "header_description": "<p>Hyppige stillede spørgsmål om cold plunging</p>",
         "header_description_font_size": "fs-md",
         "pt": 2,
         "pb": 11
@@ -409,19 +409,19 @@
         "item_B99dNi": {
           "type": "item",
           "settings": {
-            "title": "First Testimonial",
-            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"</p>",
-            "author": "Author's Name",
-            "author_subtitle": "Verified Customer"
+            "title": "Fantastisk investering for velvære",
+            "description": "<p>Jeg har brugt mit cold plunge bad i flere uger nu, og det har virkelig gjort en forskel for min restitution efter træning. Kvaliteten af badet er imponerende, og det køler hurtigt ned til den ønskede temperatur. Jeg kan mærke en markant forbedring i min muskelrestitution og generelle velvære.</p>",
+            "author": "Thomas H.",
+            "author_subtitle": "Trustpilot"
           }
         },
         "item_VPnR9Q": {
           "type": "item",
           "settings": {
-            "title": "Second Testimonial",
-            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"</p>",
-            "author": "Author's Name",
-            "author_subtitle": "Verified Customer"
+            "title": "Perfekt til daglig brug",
+            "description": "<p>Badet er super nemt at bruge, og jeg er vild med de justerbare temperaturindstillinger. Det passer perfekt ind i min daglige rutine efter træning, og jeg føler mig både frisk og energisk bagefter. Fantastisk til restitution og mental klarhed! </p>",
+            "author": "Sophie M.",
+            "author_subtitle": "Instagram"
           }
         },
         "item_XTUtYy": {
@@ -479,7 +479,7 @@
         "border_color": "border-primary",
         "border_opacity": 100,
         "container_max_width": "",
-        "header_title": "Testimonials",
+        "header_title": "Anmeldelser",
         "header_title_font_size": "h3",
         "header_description": "<p>Add on optional description for this section</p>",
         "header_description_font_size": "fs-md",
