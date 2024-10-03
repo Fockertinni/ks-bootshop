@@ -42,7 +42,7 @@
           "settings": {
             "menu": "",
             "title_font_size": "fs-xl",
-            "title": "Collections"
+            "title": "Kollektioner"
           }
         },
         "79b0b9d4-1bf4-4490-a48e-94be1aecf12a": {
@@ -50,7 +50,7 @@
           "settings": {
             "menu": "",
             "title_font_size": "fs-xl",
-            "title": "Company"
+            "title": "Cold Plunge"
           }
         },
         "7468602d-7e94-4bd5-9673-02b2f8269581": {
@@ -58,19 +58,19 @@
           "settings": {
             "menu": "footer",
             "title_font_size": "fs-xl",
-            "title": "Policies"
+            "title": "Politikker"
           }
         },
         "0f9016c8-7819-40d8-a874-905df26582ca": {
           "type": "richtext",
           "settings": {
-            "title": "About us",
+            "title": "Om os",
             "title_font_size": "fs-xl",
-            "description": "<p>Finish your Shopify store within days, not months. 15+ years of coding experience, 50k+ customers served!</p>",
-            "btn_primary_text": "Browse themes",
+            "description": "",
+            "btn_primary_text": "",
             "btn_primary_url": "https://www.kondasoft.com/collections/shopify-themes",
             "btn_primary_color": "btn-primary",
-            "btn_secondary_text": "Learn more",
+            "btn_secondary_text": "",
             "btn_secondary_url": "https://www.kondasoft.com/collections/shopify-themes",
             "btn_secondary_color": "btn-light-white"
           }
@@ -83,7 +83,7 @@
         "0f9016c8-7819-40d8-a874-905df26582ca"
       ],
       "settings": {
-        "bg_color": "bg-secondary",
+        "bg_color": "bg-primary",
         "bg_opacity": 100,
         "bg_gradient": "bg-gradient",
         "text_color": "text-white",
@@ -91,9 +91,9 @@
         "border_bottom_width": 0,
         "border_color": "border-white",
         "border_opacity": 100,
-        "social_icons": true,
-        "show_payment_icons": true,
-        "show_powered_by": true,
+        "social_icons": false,
+        "show_payment_icons": false,
+        "show_powered_by": false,
         "pt": 10,
         "pb": 7
       }
