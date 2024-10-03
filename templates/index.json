@@ -94,18 +94,15 @@
         "border_opacity": 100,
         "container_max_width": "",
         "products": [
-          "spabad-1",
-          "spabad-2",
-          "spabad-3",
-          "spabad-4"
+          "spabad-1"
         ],
-        "collection": "spabad",
+        "collection": "frontpage",
         "limit": 4,
         "recommended_mode": true,
         "recommended_mode_intent": "related",
-        "header_title": "Featured Products",
+        "header_title": "Best sellers",
         "header_title_font_size": "h3",
-        "header_description": "<p>Add on optional description for this section</p>",
+        "header_description": "<p>Oplev luksus og velvære – opgrader din hverdag med vores plunge!</p>",
         "header_description_font_size": "fs-md",
         "slider_speed": 300,
         "slider_navigation": true,
@@ -182,42 +179,48 @@
         "collection_rznnLq": {
           "type": "collection",
           "settings": {
-            "collection": "men",
+            "collection": "den-eventyrlystne",
+            "img": "shopify://shop_images/nordic_plunge_tekst.png",
             "title": ""
           }
         },
         "collection_KdHXk9": {
           "type": "collection",
           "settings": {
-            "collection": "women",
+            "collection": "den-karrieredrevne",
+            "img": "shopify://shop_images/nordic_plunge_tekst.png",
             "title": ""
           }
         },
         "collection_b7ELCB": {
           "type": "collection",
           "settings": {
-            "collection": "children",
+            "collection": "den-dyre",
+            "img": "shopify://shop_images/nordic_plunge_tekst.png",
             "title": ""
           }
         },
         "collection_XRMXNt": {
           "type": "collection",
           "settings": {
-            "collection": "babies",
+            "collection": "den-dyre",
+            "img": "shopify://shop_images/nordic_plunge_tekst.png",
             "title": ""
           }
         },
         "collection_fQ9QDf": {
           "type": "collection",
           "settings": {
-            "collection": "latest",
+            "collection": "den-sporty",
+            "img": "shopify://shop_images/nordic_plunge_tekst.png",
             "title": ""
           }
         },
         "collection_kRQqkR": {
           "type": "collection",
           "settings": {
-            "collection": "sale",
+            "collection": "den-vilde",
+            "img": "shopify://shop_images/nordic_plunge_tekst.png",
             "title": ""
           }
         }
@@ -294,7 +297,8 @@
             "border_opacity": 10,
             "media_align_desktop": "",
             "media_border": "img-thumbnail",
-            "img_orientation": "ratio-9x16",
+            "img": "shopify://shop_images/the-ice-climbing-adventures.jpg",
+            "img_orientation": "ratio-3x4",
             "video_ratio": "adapt",
             "video_autoplay": true,
             "video_loop": true,
