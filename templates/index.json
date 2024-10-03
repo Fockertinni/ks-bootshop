@@ -350,29 +350,29 @@
         "item_jyLYkB": {
           "type": "item",
           "settings": {
-            "title": "What payment methods do you support?",
-            "description": "<p>We accept PayPal, Visa, MasterCard, Discover, and American Express but feel free to contact us for other payment options.</p>"
+            "title": "Hvor koldt skal vandet være?",
+            "description": "<p>Ideelt set ligger vandtemperaturen mellem 10-15°C for at opnå de ønskede fordele. For begyndere kan en højere temperatur være passende, mens erfarne brugere kan tåle endnu koldere vand</p>"
           }
         },
         "item_pHCJRG": {
           "type": "item",
           "settings": {
-            "title": "How can I track my order?",
-            "description": "<p>We will send tracking information to the e-mail address associated with your order once the item has shipped. If you have not received your tracking information and it has been over 2 business day, please contact us at (012) 123 - 4567</p>"
+            "title": "Er cold plunging sikkert for alle?",
+            "description": "<p>De fleste raske personer kan prøve cold plunging, men personer med hjerteproblemer, højt blodtryk eller andre medicinske tilstande bør konsultere en læge først, da kulde kan påvirke blodtrykket og hjerterytmen.</p>"
           }
         },
         "item_kWLWrb": {
           "type": "item",
           "settings": {
-            "title": "Can I order as a gift for someone else?",
-            "description": "<p>When ordering as a gift for someone, be sure to enter in your email address to receive all summary information but enter in the recipient’s name and shipping information. We will be sure to keep all prices and receipts out of the package.</p>"
+            "title": "Hvornår er det bedste tidspunkt at lave cold plunging?",
+            "description": "<p>Mange foretrækker at gøre det efter træning for at reducere muskelømhed og fremme restitution. Dog kan det også gøres om morgenen for at øge mentalt fokus og energi.</p>"
           }
         },
         "item_dizKmG": {
           "type": "item",
           "settings": {
-            "title": "How can I get a refund for my order?",
-            "description": "<p>If for any reason you are not completely satisfied with your purchase, within 30 days of placing your order, we will refund you for your purchase with no questions asked.</p>"
+            "title": "Hvilke fordele kan jeg forvente ved regelmæssig cold plunging?",
+            "description": "<p>Regelmæssig cold plunging kan forbedre blodcirkulation, reducere inflammation, booste immunsystemet, øge mentalt fokus og årvågenhed, forbedre humøret, samt hjælpe med restitution og forbedret søvnkvalitet.</p>"
           }
         }
       },
