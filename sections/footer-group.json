@@ -11,60 +11,6 @@
   "type": "footer",
   "name": "Footer Group",
   "sections": {
-    "richtext_hRbyaj": {
-      "type": "richtext",
-      "settings": {
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-body",
-        "border_top_width": 0,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 100,
-        "container_max_width": "900",
-        "text_align": "text-center",
-        "title": "",
-        "title_font_size": "h2",
-        "description": "<p>Cold plunging, eller kolde bade, har fået stigende popularitet på grund af de mange sundhedsmæssige fordele, som både elitesportsudøvere og almindelige mennesker oplever. Denne praksis, hvor kroppen nedsænkes i koldt vand i kort tid, kan virke udfordrende i starten, men de positive effekter er det hele værd. Lad os dykke ned i, hvorfor cold plunging bør være en fast del af din rutine.</p>",
-        "description_font_size": "fs-md",
-        "btn_primary_text": "",
-        "btn_primary_url": "",
-        "btn_primary_color": "btn-primary",
-        "btn_secondary_text": "",
-        "btn_secondary_url": "",
-        "btn_secondary_color": "btn-secondary",
-        "pt": 9,
-        "pb": 9
-      }
-    },
-    "richtext_ACKXf4": {
-      "type": "richtext",
-      "settings": {
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-body",
-        "border_top_width": 0,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 100,
-        "container_max_width": "900",
-        "text_align": "text-center",
-        "title": "Forbedret muskelrestitution og mindre ømhed",
-        "title_font_size": "h2",
-        "description": "<p>For sportsudøvere er restitution afgørende, og cold plunging er en naturlig metode til at fremskynde denne proces. Når kroppen udsættes for koldt vand, trækker blodkarrene sig sammen, hvilket hjælper med at mindske hævelse og betændelse i musklerne. Efter badet, når kroppen varmes op igen, udvides blodkarrene, og der tilføres frisk, iltrigt blod til musklerne. Dette reducerer ømhed og fremskynder helingen, hvilket er særligt nyttigt efter intense træningspas.</p>",
-        "description_font_size": "fs-md",
-        "btn_primary_text": "køb nu",
-        "btn_primary_url": "",
-        "btn_primary_color": "btn-primary",
-        "btn_secondary_text": "",
-        "btn_secondary_url": "",
-        "btn_secondary_color": "btn-secondary",
-        "pt": 9,
-        "pb": 9
-      }
-    },
     "newsletter_fL4LWF": {
       "type": "newsletter",
       "settings": {
@@ -154,8 +100,6 @@
     }
   },
   "order": [
-    "richtext_hRbyaj",
-    "richtext_ACKXf4",
     "newsletter_fL4LWF",
     "footer"
   ]

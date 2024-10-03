@@ -330,128 +330,21 @@
         "container_max_width": ""
       }
     },
-    "card_slider_BFzjjF": {
-      "type": "card-slider",
-      "blocks": {
-        "item_qp7jPa": {
-          "type": "item",
-          "settings": {
-            "title": "First Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
-          }
-        },
-        "item_h9wANh": {
-          "type": "item",
-          "settings": {
-            "title": "Second Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
-          }
-        },
-        "item_hAPJWn": {
-          "type": "item",
-          "settings": {
-            "title": "Third Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
-          }
-        },
-        "item_9EkHYL": {
-          "type": "item",
-          "settings": {
-            "title": "Fourth Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
-          }
-        },
-        "item_iKKgHJ": {
-          "type": "item",
-          "settings": {
-            "title": "Fifth Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
-          }
-        },
-        "item_Je3xNm": {
-          "type": "item",
-          "settings": {
-            "title": "Sixth Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_qp7jPa",
-        "item_h9wANh",
-        "item_hAPJWn",
-        "item_9EkHYL",
-        "item_iKKgHJ",
-        "item_Je3xNm"
-      ],
-      "settings": {
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-body",
-        "border_top_width": 0,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 100,
-        "container_max_width": "",
-        "header_title": "Card Slider",
-        "header_title_font_size": "h3",
-        "header_description": "<p>Add on optional description for this section</p>",
-        "header_description_font_size": "fs-md",
-        "slider_speed": 300,
-        "slider_navigation": true,
-        "slider_pagination": true,
-        "slider_pagination_type": "bullets",
-        "slider_scrollbar": true,
-        "slider_partial_slides_mobile": true,
-        "slider_autoplay": 0,
-        "item_bg_color": "bg-body",
-        "item_bg_opacity": 0,
-        "item_text_color": "text-body",
-        "item_border_width": 1,
-        "item_border_color": "",
-        "item_border_opacity": 100,
-        "item_shadow": "shadow-sm",
-        "item_text_align": "text-start",
-        "item_img_orientation": "ratio-4x3",
-        "item_title_font_size": "h5",
-        "item_description_font_size": "",
-        "item_btn_color": "btn-outline-primary",
-        "item_btn_size": "btn-sm",
-        "breakpoint_mobile": 1,
-        "breakpoint_tablet": 2,
-        "breakpoint_desktop": 4,
-        "pt": 10,
-        "pb": 11
-      }
-    },
     "faq_7TT7z4": {
       "type": "faq",
       "blocks": {
         "item_AgKJ3m": {
           "type": "item",
           "settings": {
-            "title": "Where do you ship?",
-            "description": "<p>We ship all around the world... Please provide here you own shipping information, including times, prices, options etc.</p>"
+            "title": "Hvad er cold plunging, og hvordan fungerer det?",
+            "description": "<p>Cold plunging er en praksis, hvor man nedsænker kroppen i koldt vand i en kort periode, normalt mellem 2-10 minutter. Det kolde vand kan stimulere blodcirkulationen, reducere inflammation og forbedre restitution efter fysisk aktivitet.</p>"
           }
         },
         "item_EemRD3": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to receive my order",
-            "description": "<p>This depends on whether it is an International or a Domestic order. All orders within the U.S. are considered domestic orders and they are shipped and delivered within 2-5 business days. Please see International Orders for more details.</p>"
+            "title": "Hvor længe skal jeg være i det kolde vand?",
+            "description": "<p>Varigheden afhænger af din tolerance og erfaring. Begyndere kan starte med 1-2 minutter, mens erfarne kan blive i op til 10 minutter. Det vigtigste er at lytte til kroppen og undgå overeksponering for kulden.</p>"
           }
         },
         "item_jyLYkB": {
@@ -615,45 +508,6 @@
         "pb": 12
       }
     },
-    "blog_slider_UUweWT": {
-      "type": "blog-slider",
-      "settings": {
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-body",
-        "border_top_width": 0,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 100,
-        "container_max_width": "",
-        "header_title": "Latest Posts",
-        "header_title_font_size": "h3",
-        "header_description": "<p>Add on optional description for this section</p>",
-        "header_description_font_size": "fs-md",
-        "slider_speed": 300,
-        "slider_navigation": true,
-        "slider_pagination": true,
-        "slider_pagination_type": "bullets",
-        "slider_scrollbar": true,
-        "slider_partial_slides_mobile": true,
-        "slider_autoplay": 0,
-        "blog": "news",
-        "limit": 8,
-        "article_card_text_align": "text-start",
-        "article_card_img_orientation": "ratio-16x9",
-        "article_card_img_border": "img-thumbnail",
-        "article_card_title_size": "fs-xl",
-        "article_card_meta": true,
-        "article_card_tags": true,
-        "article_card_excerpt": false,
-        "breakpoint_mobile": 1,
-        "breakpoint_tablet": 2,
-        "breakpoint_desktop": 3,
-        "pt": 10,
-        "pb": 12
-      }
-    },
     "separator_pMbxtB": {
       "type": "separator",
       "disabled": true,
@@ -676,10 +530,8 @@
     "featured_collections_n3Br7m",
     "separator_kfq8kz",
     "media_with_text_xTY8gi",
-    "card_slider_BFzjjF",
     "faq_7TT7z4",
     "testimonials_eFtnyC",
-    "blog_slider_UUweWT",
     "separator_pMbxtB"
   ]
 }
