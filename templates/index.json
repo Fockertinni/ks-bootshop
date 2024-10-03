@@ -32,16 +32,16 @@
         "slide_TddqxQ": {
           "type": "slide",
           "settings": {
-            "img_desktop": "shopify://shop_images/nordic_plunge_full.webp",
+            "img_desktop": "shopify://shop_images/frozen-lake-covered-in-winter-snow.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
             "subtitle": "",
-            "title": "Random billede",
-            "description": "<p>smid nyt billede ind her</p>",
-            "btn_primary_text": "Primary button",
+            "title": "oplev friheden hjemmefra",
+            "description": "<p>Mærk energien komme tilbage med Cold plunge!</p>",
+            "btn_primary_text": "Køb nu",
             "btn_primary_url": "",
-            "btn_secondary_text": "Secondary button",
+            "btn_secondary_text": "læs mere",
             "btn_secondary_url": ""
           }
         }
